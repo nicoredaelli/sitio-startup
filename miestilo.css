@@ -1,0 +1,18 @@
+body{
+    background-color:azure;
+    background-image: url(img/logo.jpg) ;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.nav{
+    color: rgb(209, 28, 28);
+    display: inline-block;
+}
+.titulo{
+    padding-top: 125px;
+}
